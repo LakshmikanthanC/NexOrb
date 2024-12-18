@@ -12,3 +12,14 @@ NexOrb is an all-in-one platform where startups can manage people, tasks, and co
   - [ ]  Emoji support
   - [ ]  Typing indicators
   - [ ]  File sharing
+
+# Development 
+
+- Fork this repository
+- Create a new branch with the feature name
+- start developing
+- To develop the frontend
+```bash
+cd web
+```
+then start developing. 
